@@ -1,54 +1,67 @@
-# Doxining
+# Doxinfo
+```
 Doxing o doxeo o doxxing es la práctica en Internet de investigación y publicación de
 información privada o identificante sobre un individuo o una organización. wikipedia
 Doxing es el proceso de obtención de información acerca de una persona a través de
 fuentes de internet, utilizando el ingenio y habilidades de búsqueda.
 La palabra deriva de "document" en inglés y ing, que sería un gerundio 
 en esa lengua : documentando o algo por el estilo pero queda mejor doxing
+```
+Doxinfo
+Es un programa creado para para doxear a un individuo o una organización .
+Doxinfo tiene una variedad de opciones de buscadores web para obtener datos de nuestra victimas.
+- MAS INFORMACIÓN https://lpericena.blogspot.com/2019/02/doxing.html
 
-Doxinfo Es un programa creado para para doxear a un individuo o una organización . Doxinfo tiene una variedad de opciones de buscadores web para obtener datos de nuestra victimas.
+## Comenzando 
+![](https://2.bp.blogspot.com/-3JyjMAG7EJU/XHfM90oksNI/AAAAAAAANyc/KZzjUbeO6mY88yc9F5G5p9Wm-QyNai_EACLcBGAs/s1600/Screenshot_11.png)
+### Pre-requisitos 
+![](https://1.bp.blogspot.com/-hUVUYxzVEpk/XHfkFt92LNI/AAAAAAAAN0I/krQXsqw-DmcTvM0eHAYuV1drsIg21uxAQCLcBGAs/s1600/Screenshot_22.png)
 
-MAS INFORMACIÓN https://lpericena.blogspot.com/2019/02/doxing.html
-Comenzando
-![edf](https://user-images.githubusercontent.com/90482037/184068674-0f550b81-9fc4-4237-a109-4efa71d2f247.png)
+_Que cosas necesitas para instalar el software y como instalarlas_
 
-
-
-Pre-requisitos
-![sdsdsd](https://user-images.githubusercontent.com/90482037/184068661-40627908-1dba-404b-979e-01e5a3cab817.png)
-
-
-
-Que cosas necesitas para instalar el software y como instalarlas
-
+```
  - windows 7/10
  - USB 
-Deployment
+```
 
-LICENSE
 
-Permisos
+### Donación paypal
+https://www.paypal.com/paypalme/lpericena
 
--Uso comercial
+## Deployment 
+- LICENSE
+- Permisos
+* Uso comercial
+* DistribuciÃ³n
+* ModificaciÃ³n
+* Uso de patentes
+* Uso privado
+- Condiciones	Limitaciones
+*  Revelar la fuente
+*  Aviso de licencia y copyright
+*  Misma licencia
+*  Cambios de estado
+*  Responsabilidad
+*  GarantÃ­a
 
--DistribuciÃ³n
+## Construido con * [Notepad++](https://notepad-plus-plus.org/download/) - Editor de texto (IDE)
+_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
--ModificaciÃ³n
+* **LuishiÃ±o Pericena Choque ** - *Desarrollo del software* - [Pericena](https://github.com/Pericena)
 
--Uso de patentes
 
--Uso privado
+## Licencia
 
--Condiciones Limitaciones
+Este proyecto estÃ¡ bajo la Licencia (Licencia pÃºblica general de GNU) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
--Revelar la fuente
+## Expresiones de Gratitud 
+* Bueno espero que le sea de utilidad cualquier consulta pueden dirigirse a mis redes sociales ðŸ“¢
+Sigueme en las redes Sociales:
+- 🌎Blogger          https://lpericena.blogspot.com/
+- 💡 Github            https://github.com/Pericena
+- 🐤 twitter             https://twitter.com/LPericena
+- 👦 linkedin         https://www.linkedin.com/in/lpericena/
+* Gracias  ðŸ¤“.
 
--Aviso de licencia y copyright
-
--Misma licencia
-
--Cambios de estado
-
--Responsabilidad
-
--GarantÃ­a
+---
+âŒ¨ï¸ Por [Pericena](https://github.com/Pericena)
